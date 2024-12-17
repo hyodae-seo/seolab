@@ -158,21 +158,20 @@ footer:
       # url: "https://x.com/hyodae"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-     # url:
-     - label: "GitHub"
+      # url:
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
        url: "https://github.com/hyodae-seo?tab=repositories"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Bitbucket"
-     icon: "fab fa-fw fa-bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
-
+      
 # Reading Files
 include:
   - .htaccess
