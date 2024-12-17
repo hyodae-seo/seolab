@@ -161,7 +161,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/hyodae-seo?tab=repositories"
+      url: "https://github.com/hyodae-seo?tab=repositories"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
