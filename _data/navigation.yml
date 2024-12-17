@@ -1,10 +1,21 @@
 # main links
 main:
-uide/
+  - title: "People"
+    url: https://hseo.whoi.edu/people
+  - title: "Publications"
+    url: https://hseo.whoi.edu/pubs
+  - title: "Projects"
+    url: https://hseo.whoi.edu/current-projects
+  - title: "Teaching"
+    url: https://hseo.whoi.edu/teaching/
+  - title: "SCOAR"
+    url: https://hseo.whoi.edu/scoar-model
+  - title: "Butterfly"
+    url: https://hseo.whoi.edu/butterfly-a-new-satellite-mission-concept/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Sample Posts"
-     url: /year-archive/
+  # - title: "Sample Posts"
+  #  url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
